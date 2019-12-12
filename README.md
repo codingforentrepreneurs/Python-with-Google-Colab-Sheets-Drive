@@ -1,6 +1,6 @@
-[![Python with Google Colab + Sheets + Drive](https://static.codingforentrepreneurs.com/media/projects/python-google-colab-sheets-drive/images/share/python_colab_sheets_drive_pandas_share.jpg)](https://www.codingforentrepreneurs.com/projects/python-google-colab-sheets-drive)
-
 # Python with Google Colab + Sheets + Drive
+
+[![Python with Google Colab + Sheets + Drive](https://static.codingforentrepreneurs.com/media/projects/python-google-colab-sheets-drive/images/share/python_colab_sheets_drive_pandas_share.jpg)](https://www.codingforentrepreneurs.com/projects/python-google-colab-sheets-drive)
 
 #### [Watch Series](https://www.codingforentrepreneurs.com/projects/python-google-colab-sheets-drive)
 
